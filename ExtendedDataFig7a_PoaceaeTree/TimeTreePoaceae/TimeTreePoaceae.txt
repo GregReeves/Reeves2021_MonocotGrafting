@@ -1,0 +1,45 @@
+treefile = NoOutgroupTree.tre
+smooth = 100
+numsites = 13305
+mrca = ONE Chloridoideae_Urochondra_setulosa Danthonioideae_Chionochloa_macra
+min = ONE 24.4
+max = ONE 38.6
+mrca = TWO Chloridoideae_Urochondra_setulosa Micrairoideae_Eriachne_aristidea
+min = TWO 31
+max = TWO 47
+mrca = THREE Micrairoideae_Eriachne_aristidea Danthonioideae_Danthonia_californica
+min = THREE 23.71
+max = THREE 37.59
+mrca = FOUR Panicoideae_Axonopus_fissifolius Micrairoideae_Eriachne_aristidea
+min = FOUR 33
+max = FOUR 46
+mrca = FIVE Micrairoideae_Eriachne_aristidea Aristideae_Aristida_pruinosa
+min = FIVE 33
+max = FIVE 46
+mrca = SIX Pooideae_Zingeria_biebersteiniana Bambusoideae_Olyra_latifolia
+min = SIX 42
+max = SIX 52
+mrca = NINE Pooideae_Zingeria_biebersteiniana Micrairoideae_Eriachne_aristidea
+min = NINE 42
+max = NINE 52
+mrca = TEN Pooideae_Zingeria_biebersteiniana Oryzoideae_Streptogyna_americana
+min = TEN 42
+max = TEN 52
+mrca = TWELVE Pooideae_Puelia_olyriformis Pooideae_Zingeria_biebersteiniana
+min = TWELVE 52
+max = TWELVE 69
+mrca = THIRTEEN Pooideae_Leptaspis_banksii Pooideae_Zingeria_biebersteiniana
+min = THIRTEEN 61
+max = THIRTEEN 79
+mrca = FOURTEEN Pooideae_Zingeria_biebersteiniana Pooideae_Anomochloa_marantoidea
+min = FOURTEEN 67
+max = FOURTEEN 97
+outfile = Poaceae.dated.tre
+thorough
+#prime
+opt = 2
+moredetail
+optad = 2
+moredetailad
+optcvad = 1
+moredetailcvad

@@ -1,0 +1,5 @@
+To get the alignment of each individual gene run
+
+python ReverseCat.py MLanalysis/super.matrix MLanalysis/super.model
+
+Remove the gaps to get the unaligned fasta sequence
