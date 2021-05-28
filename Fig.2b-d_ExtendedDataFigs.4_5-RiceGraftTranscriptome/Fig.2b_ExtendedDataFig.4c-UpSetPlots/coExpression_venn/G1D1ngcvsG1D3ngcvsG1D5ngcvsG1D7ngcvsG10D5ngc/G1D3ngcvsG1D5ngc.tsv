@@ -1,0 +1,65 @@
+gene_id	gene_name	gene_chr	gene_start	gene_end	gene_strand	gene_length	gene_biotype	gene_description	tf_family
+Os01g0373700	-	1	15400221	15400863	-	643	protein_coding	Conserved hypothetical protein	-
+Os09g0427100	-	9	15502457	15508094	+	1358	protein_coding	Conserved hypothetical protein	-
+Os02g0509600	-	2	18219267	18220774	+	1011	protein_coding	Conserved hypothetical protein	-
+Os06g0324400	LATE EMBRYOGENESIS ABUNDANT PROTEIN 3	6	12665605	12666203	-	522	protein_coding	Late embryogenesis abundant (LEA) group 1 family protein	-
+Os03g0139500	CCT domain-containing gene 10, CCT (CO, CO-LIKE and TOC1) domain protein 10, CCT domain protein 10, CCT MOTIF FAMILY (CMF) gene 4	3	2159337	2161733	-	1431	protein_coding	Similar to CONSTANS-like protein CO9 (Fragment)	CCT
+Os11g0621200	-	11	24218226	24218772	+	541	protein_coding	Similar to OSIGBa0117N13.1 protein	-
+Os09g0278000	-	9	5789801	5790358	+	558	protein_coding	Hypothetical conserved gene	-
+Os06g0342000	-	6	13674054	13676418	-	2184	protein_coding	Exostosin-like family protein	-
+Os08g0385650	-	8	18185542	18185967	+	426	protein_coding	Hypothetical conserved gene	-
+Os01g0357500	-	1	14462311	14462787	+	477	protein_coding	Similar to Ferredoxin-nitrite reductase	-
+Os09g0547900	-	9	21656212	21664428	+	3177	protein_coding	Hypothetical conserved gene	-
+Os02g0193100	-	2	5183536	5184380	-	845	protein_coding	Conserved hypothetical protein	-
+Os06g0633300	PHYTOSULFOKINE-ALPHA PRECURSOR	6	25670034	25671891	-	1849	protein_coding	Similar to Phytosulfokines 1	-
+Os08g0541900	-	8	27120439	27121216	-	778	protein_coding	T antigen, Ori-binding domain containing protein	-
+Os07g0452801	-	7	15623368	15626179	-	2648	protein_coding	Conserved hypothetical protein	-
+Os07g0118200	-	7	972942	973370	+	429	protein_coding	Protein of unknown function DUF538 domain containing protein	-
+Os01g0238850	-	1	7677950	7678911	+	693	protein_coding	Hypothetical gene	-
+ENSRNA049472477	MIR815	5	14992252	14992329	+	78	pre_miRNA	microRNA MIR815	-
+Os02g0549401	-	2	20631443	20633997	-	540	protein_coding	Hypothetical gene	-
+Os05g0163000	-	5	3690011	3697450	+	2134	protein_coding	Arginyl-tRNA synthetase, class Ic family protein	-
+ENSRNA049449344	tRNA-Ile	2	22564187	22564260	+	74	tRNA	tRNA-Ile for anticodon AAU	-
+Os12g0121300	-	12	1005449	1011140	-	2063	protein_coding	Similar to Phosphoethanolamine cytidylyltransferase	CTP_transf_2
+Os07g0663700	short-chain alcohol dehydrogenase/reductase 110C-MI3, OsSDR110C family member MI3	7	28002587	28004412	+	1581	protein_coding	Similar to Oxidoreductase, short chain dehydrogenase/reductase family protein, expressed	-
+Os07g0121100	-	7	1113969	1116298	+	2330	protein_coding	Protein of unknown function DUF1719, Oryza sativa family protein	-
+Os07g0681200	-	7	28877263	28879413	+	852	protein_coding	Vegetative storage protein/acid phosphatase domain containing protein	-
+Os05g0151200	-	5	2969525	2970353	+	829	protein_coding	TspO/MBR-related protein family protein	-
+Os11g0153851	-	11	2523949	2524257	-	309	protein_coding	Hypothetical genes	-
+Os06g0163450	-	6	3204057	3204326	-	270	protein_coding	Similar to predicted protein	-
+Os01g0220700	SWEET3B	1	6612386	6613717	-	734	protein_coding	Similar to predicted protein	-
+Os08g0454000	ETHYLENE RESPONSE FACTOR 12	8	22236504	22237250	+	747	protein_coding	Drought-responsive ethylene response factor, Transcriptional activator, Drought response through controlling the ethylene synthesi	AP2
+Os01g0276300	endosperm-specific gene 4	1	9679828	9680883	+	953	protein_coding	Similar to Group 3 late embryogenesis abundant protein (Fragment)	-
+Os10g0478500	two MATH domain containing MDC protein 1, MDC protein having two MATH domains 1	10	17949628	17952014	-	1199	protein_coding	MATH domain containing protein	-
+Os02g0185300	-	2	4765151	4767187	+	1790	protein_coding	Cytochrome P450 family protein	p450
+Os01g0592500	ARABINOGALACTAN PROTEIN 15	1	23167795	23168478	-	684	protein_coding	Protein of unknown function DUF1070 family protein	-
+Os01g0585200	-	1	22747354	22748143	+	790	protein_coding	Similar to cDNA clone:J023088C01, full insert sequence	-
+ENSRNA049470128	U5	6	27809113	27809231	+	119	snRNA	U5 spliceosomal RNA	-
+Os04g0610600	LATE EMBRYOGENESIS ABUNDANT PROTEIN 18	4	30950939	30952114	+	1074	protein_coding	Similar to Cor14b protein precursor	-
+Os04g0549350	-	4	27494725	27497944	+	2033	protein_coding	Hypothetical protein	Asparaginase_2
+Os01g0728300	-	1	30372204	30376912	-	2097	protein_coding	Similar to Cytochrome P450 monooxygenase CYP72A5 (Fragment)	p450
+Os07g0496300	-	7	18599778	18603406	-	2864	protein_coding	MULE transposase, conserved domain domain containing protein	FAR1
+Os11g0209200	F-box protein 592, F-box family-4	11	5615461	5618397	-	1945	protein_coding	Similar to Ribosomal RNA apurinic site specific lyase	-
+Os12g0116700	WRKY GENE 64	12	824221	825793	-	1193	protein_coding	Similar to WRKY transcription factor 64	WRKY
+CAA33985	petN	Pt	17556	17645	-	90	protein_coding	-	-
+Os08g0428200	-	8	20601638	20601971	+	334	protein_coding	Similar to Myb51 protein	-
+Os04g0526800	-	4	26342449	26343778	-	1103	protein_coding	GRAM domain containing protein	GRAM
+Os11g0138600	-	11	1798930	1800298	-	639	protein_coding	Similar to Phosphoglycerate mutase family protein	-
+Os09g0127700	-	9	2123405	2124075	-	671	protein_coding	Conserved hypothetical protein	-
+ENSRNA049472231	snoZ118	2	783601	783708	-	108	snoRNA	Small nucleolar RNA Z118/Z121/Z120	-
+EPlORYSAT000373869	tRNA-Lys (UUU)	Pt	1363	3938	-	72	tRNA	-	-
+Os04g0554000	TREHALOSE-6-PHOSPHATE PHOSHPHATASE 5	4	27726325	27728086	-	933	protein_coding	Similar to OSIGBa0143N19.11 protein	-
+Os05g0478400	WRKY GENE 48	5	23529423	23530499	-	1077	protein_coding	Similar to WRKY transcription factor 48	WRKY
+ENSRNA049471632	snoZ155	1	41010580	41010655	-	76	snoRNA	Small nucleolar RNA Z155	-
+Os04g0566700	-	4	28479505	28480356	-	852	protein_coding	Similar to Mitochondrial import inner membrane translocase subunit tim23	-
+Os10g0132901	-	10	2055209	2058134	-	2809	protein_coding	Hypothetical protein	NB-ARC
+Os10g0134250	-	10	2144516	2148447	-	3932	protein_coding	Hypothetical gene	-
+Os05g0426350	-	5	20898381	20900873	+	2100	protein_coding	Hypothetical protein	-
+Os11g0159900	-	11	2904929	2905975	+	1047	protein_coding	Protein of unknown function DUF241, plant domain containing protein	-
+Os02g0621400	-	2	24724834	24725483	+	650	protein_coding	Hypothetical protein	-
+Os11g0181200	-	11	4084040	4084656	+	617	protein_coding	Hypothetical protein	-
+Os01g0869500	-	1	37686059	37689440	-	1842	protein_coding	Plant nuclear matrix 1 family protein	-
+Os01g0283600	-	1	10144374	10146312	+	981	protein_coding	Similar to Cinnamoyl CoA reductase	Epimerase
+Os02g0105400	LACTATE DEHYDROGENASE	2	295324	299167	+	1588	protein_coding	Similar to L-lactate dehydrogenase A (EC 1.1.1.27) (LDH-A)	-
+Os04g0128900	YUCCA-LIKE GENE 7	4	1813960	1816070	-	2016	protein_coding	Flavin monooxygenase-like enzyme, Auxin biosynthesi	FMO-like
+Os02g0551600	-	2	20776247	20777084	+	838	protein_coding	Conserved hypothetical protein	-

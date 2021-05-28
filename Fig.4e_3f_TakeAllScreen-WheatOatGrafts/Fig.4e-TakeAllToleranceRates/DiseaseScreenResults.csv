@@ -1,0 +1,4 @@
+﻿GraftType,Scion,Root,NoSymptomatic,NoAsymptomatic,ToleranceRate,n_total
+WheatWheat,Wheat,Wheat,6,0,1,6
+OatOat,Oat,Oat,0,6,100,6
+WheatOat,Wheat,Oat,0,6,100,6

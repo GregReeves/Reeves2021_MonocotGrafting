@@ -1,0 +1,61 @@
+gene_id	gene_name	gene_chr	gene_start	gene_end	gene_strand	gene_length	gene_biotype	gene_description	tf_family
+Os03g0323100	-	3	11710916	11711904	-	989	protein_coding	Conserved hypothetical protein	-
+Os01g0905500	-	1	39421336	39422280	+	945	protein_coding	Conserved hypothetical protein	-
+Os01g0171100	-	1	3678431	3680909	-	1263	protein_coding	Ankyrin repeat domain containing protein	-
+Os11g0172100	PECTIN METHYLESTERASE 30	11	3532246	3533854	+	1609	protein_coding	Similar to Pectinesterase	-
+Os10g0194400	-	10	6555886	6556270	+	385	protein_coding	Hypothetical gene	-
+Os09g0278700	-	9	5826160	5827036	+	877	protein_coding	Hypothetical conserved gene	-
+Os09g0526600	HEAT STRESS TRANSCRIPTION FACTOR B2C	9	20591252	20595143	-	2113	protein_coding	Similar to Isoform 2 of Heat stress transcription factor B-2c	HSF_DNA-bind
+Os01g0607800	-	1	23970594	23972310	+	1717	protein_coding	Pentatricopeptide repeat domain containing protein	PPR
+Os07g0554500	F-box protein 389	7	22082602	22083848	+	1247	protein_coding	Similar to OSIGBa0107A02.1 protein	-
+Os02g0697500	-	2	28681631	28683888	-	1459	protein_coding	Similar to Selenium-binding protein-like	-
+Os01g0363600	-	1	14802807	14804515	-	974	protein_coding	Similar to hydroxyethylthiazole kinase family protein	-
+Os07g0452801	-	7	15623368	15626179	-	2648	protein_coding	Conserved hypothetical protein	-
+Os01g0702700	MYB transcription factor 14, JA-dependent MYB1	1	29132173	29133909	-	1513	protein_coding	Similar to Transcription factor MYB86 (Myb-related protein 86) (AtMYB86) (Myb homolog 4) (AtMyb4)	Myb_DNA-binding
+Os04g0449400	protein phosphatase 2C40, protein phosphatase 2C 40, protein phosphatase 65	4	22389359	22392243	-	1288	protein_coding	Similar to H0818E04.11 protein	PP2C
+Os04g0643700	-	4	32758880	32762453	+	2757	protein_coding	Pentatricopeptide repeat domain containing protein	-
+Os01g0605700	SWEET6B	1	23864681	23867205	+	991	protein_coding	MtN3 and saliva related transmembrane protein family protein	-
+Os03g0161900	HEAT STRESS TRANSCRIPTION FACTOR A2D	3	3342254	3344547	+	2294	protein_coding	Similar to Isoform 2 of Heat stress transcription factor A-2d	HSF_DNA-bind
+Os07g0118250	-	7	976321	976749	+	429	protein_coding	Protein of unknown function DUF538 family protein	-
+Os09g0512000	-	9	19917485	19920309	+	1738	protein_coding	SecY protein family protein	-
+Os05g0480000	STN8 kinase	5	23598187	23602596	+	3615	protein_coding	Serine/threonine protein kinase, Photosystem II (PSII) repair, Phosphorylation of PSII core protei	Pkinase
+Os03g0124100	OsSTA87	3	1402828	1404996	+	1981	protein_coding	Protein of unknown function DUF604 domain containing protein	-
+ENSRNA049449286	tRNA-Gln	2	29669578	29669649	+	72	tRNA	tRNA-Gln for anticodon CUG	-
+Os02g0722400	amino acid permease 3, amino acid permease 10, amino acid/auxin permease 10	2	29991951	29998068	+	1506	protein_coding	Similar to AAP7	Aa_trans
+Os01g0783100	-	1	33182589	33186141	+	2600	protein_coding	Pentatricopeptide repeat domain containing protein	-
+Os10g0539650	-	10	21031774	21032701	-	928	protein_coding	Hypothetical gene	-
+Os02g0541500	-	2	20118183	20118829	+	647	protein_coding	Similar to predicted protein	-
+Os07g0640300	-	7	26646515	26647959	-	622	protein_coding	Hypothetical conserved gene	-
+Os11g0234001	-	11	7114429	7115003	+	459	protein_coding	Conserved hypothetical protein	-
+Os04g0623200	-	4	31666207	31667028	-	822	protein_coding	Similar to H0215F08.2 protein	-
+Os02g0731500	-	2	30468783	30470102	-	1213	protein_coding	Similar to cDNA, clone: J065098J18, full insert sequence	-
+Os06g0730150	-	6	31114762	31114993	+	232	protein_coding	Hypothetical protein	-
+Os06g0666500	-	6	27598569	27599476	+	908	protein_coding	Zinc finger, RING/FYVE/PHD-type domain containing protein	-
+Os02g0287900	F-box protein 80	2	10857586	10859012	-	1427	protein_coding	Cyclin-like F-box domain containing protein	-
+Os12g0242800	-	12	7919575	7920541	+	967	protein_coding	TRAM, LAG1 and CLN8 homology domain containing protein	LAG1
+Os06g0148100	-	6	2510260	2511033	+	774	protein_coding	Conserved hypothetical protein	-
+Os05g0584950	-	5	29126273	29126734	+	462	protein_coding	Hypothetical gene	-
+Os06g0107700	leaf-type ferredoxin-NADP+-oxidoreductase 2, leaf-type FNR 2, Fd NADP+ oxidoreductase 2, LeafFerredoxin-NADP+ Reductase, leaf FNR	6	479261	481572	-	1301	protein_coding	Leaf-type ferredoxin-NADP+-oxidoreductase, Regulation of electron partitioning in the chloroplas	NAD_binding_1
+Os01g0254850	-	1	8471334	8472108	-	775	protein_coding	Hypothetical conserved gene	-
+Os08g0122201	-	8	1215576	1216317	+	613	protein_coding	Hypothetical conserved gene	-
+Os05g0410500	-	5	20045195	20049272	-	2048	protein_coding	TGF-beta receptor, type I/II extracellular region family protein	-
+Os03g0108300	XYLOGLUCAN ENDOTRANSGLUCOSYDASE/HYDROLASE 19	3	492815	494095	-	1281	protein_coding	Similar to xyloglucan endotransglucosylase/hydrolase protein 32	-
+Os11g0262600	-	11	8864479	8866289	-	613	protein_coding	Conserved hypothetical protein	-
+Os08g0519100	-	8	25769814	25771549	-	1736	protein_coding	D-arabinono-1,4-lactone oxidase domain containing protein	FAD_binding_4
+Os11g0104866	-	11	234283	239271	+	1737	protein_coding	Similar to Clathrin heavy chain	-
+Os09g0493400	-	9	19104092	19108716	+	2425	protein_coding	Domain of unknown function DUF547 domain containing protein	-
+ENSRNA049447449	tRNA-Gly	10	22861054	22861124	+	71	tRNA	tRNA-Gly for anticodon GCC	-
+Os01g0140700	APETALA2/ETHYLENE-RESPONSIVE ELEMENT BINDING PROTEIN 77	1	2154326	2155279	+	954	protein_coding	Similar to RAV2 (REGULATOR OF THE ATPASE OF THE VACUOLAR MEMBRANE); DNA binding / transcription factor	B3
+Os06g0128100	-	6	1479125	1485779	+	2405	protein_coding	Protein of unknown function DUF248, methyltransferase putative domain containing protein	-
+Os03g0643000	-	3	24784051	24786767	-	1113	protein_coding	Similar to Hydrolase-like protein	-
+Os09g0570800	-	9	22790671	22792001	+	1331	protein_coding	Isopenicillin N synthase family protein	2OG-FeII_Oxy
+Os08g0114100	-	8	751421	753191	+	1202	protein_coding	Conserved hypothetical protein	-
+Os03g0192550	-	3	4820592	4821406	+	815	protein_coding	Hypothetical gene	-
+Os08g0390200	-	8	18491788	18493260	-	1473	protein_coding	Similar to Oxidoreductase, 2OG-Fe oxygenase family protein, expressed	2OG-FeII_Oxy
+Os01g0367400	-	1	15019814	15023931	-	1975	protein_coding	Conserved hypothetical protein	-
+Os01g0279000	Subtilisin 1, SUBTILISIN 1	1	9866730	9870864	+	2948	protein_coding	Zinc finger, DHHC-type domain containing protein	-
+Os06g0147600	-	6	2497634	2498202	-	569	protein_coding	Conserved hypothetical protein	-
+Os02g0105400	LACTATE DEHYDROGENASE	2	295324	299167	+	1588	protein_coding	Similar to L-lactate dehydrogenase A (EC 1.1.1.27) (LDH-A)	-
+Os01g0813300	APETALA2/ETHYLENE-RESPONSIVE ELEMENT BINDING PROTEIN 79	1	34575196	34576640	+	384	protein_coding	Similar to AP2/EREBP transcription factor	AP2
+Os07g0673550	-	7	28474473	28475210	-	738	protein_coding	Photosystem II protein PsbX family protein	-
+Os08g0457400	RECEPTOR-LIKE CYTOPLASMIC KINASE 255	8	22415878	22418614	-	1844	protein_coding	Similar to Avr9/Cf-9 induced kinase 1	Pkinase_Tyr

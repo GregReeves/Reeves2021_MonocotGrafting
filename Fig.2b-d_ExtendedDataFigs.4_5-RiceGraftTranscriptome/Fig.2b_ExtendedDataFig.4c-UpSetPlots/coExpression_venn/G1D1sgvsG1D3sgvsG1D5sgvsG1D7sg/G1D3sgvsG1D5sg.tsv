@@ -1,0 +1,267 @@
+gene_id	gene_name	gene_chr	gene_start	gene_end	gene_strand	gene_length	gene_biotype	gene_description	tf_family
+Os01g0373700	-	1	15400221	15400863	-	643	protein_coding	Conserved hypothetical protein	-
+Os05g0409500	USUALLY MULTIPLE ACIDS MOVE IN AND OUT TRANSPORTER 9	5	19997585	19999679	-	1680	protein_coding	Similar to MtN21 protein	DUF6
+Os06g0718400	UCLACYANIN-LIKE PROTEIN 18	6	30528045	30529070	+	939	protein_coding	Hypothetical conserved gene	Cu_bind_like
+Os08g0189850	GERMIN-LIKE PROTEIN 8-9	8	5254364	5255230	+	675	protein_coding	Germin-like protein 8-9, Disease resistanc	-
+Os02g0211800	RECEPTOR-LIKE CYTOPLASMIC KINASE 65	2	6247083	6250359	-	3159	protein_coding	Hypothetical conserved gene	Pkinase
+Os07g0126500	-	7	1401708	1402384	+	677	protein_coding	Allergen V5/Tpx-1 related family protein	SCP
+Os02g0758200	-	2	31932285	31933316	-	1032	protein_coding	Conserved hypothetical protein	-
+Os02g0571100	ENT-COPALYL DIPHOSPHATE SYNTHASE 2	2	21844651	21847532	+	1173	protein_coding	Ent-copalyl diphosphate synthase, Defense against both fungal pathogen and bacterial pathogen, Biosynthesis of phytoalexi	-
+Os06g0542300	-	6	20404356	20405495	-	924	protein_coding	Heavy metal transport/detoxification protein domain containing protein	HMA
+Os03g0687700	endosperm-specific gene 52	3	27444695	27445609	-	915	protein_coding	Ribosome-inactivating protein domain containing protein	-
+Os11g0663100	-	11	26682547	26684867	-	1578	protein_coding	Hypothetical conserved gene	-
+Os06g0633375	-	6	25676661	25677539	-	879	protein_coding	Hypothetical protein	bZIP_1
+Os03g0682100	MAJOR FACILITATOR SUPERFAMILY 1	3	27143712	27145616	-	1905	protein_coding	Similar to nitrate and chloride transporter	-
+Os03g0817500	trichome birefringence-like 3	3	34289859	34292782	-	1618	protein_coding	Protein of unknown function DUF231, plant domain containing protein	-
+Os02g0780500	SRL2-like gene, semi-rolled leaf 2-like gene	2	33054175	33066629	+	3831	protein_coding	Conserved hypothetical protein	-
+Os07g0655800	OS-RP2	7	27577343	27578696	+	922	protein_coding	Similar to Aspartic acid-rich protein	-
+Os04g0140400	-	4	2752711	2752971	-	261	protein_coding	Conserved hypothetical protein	-
+Os05g0197200	GERMIN-LIKE PROTEIN 5-1	5	5986015	5986963	+	837	protein_coding	Hypothetical conserved gene	-
+Os04g0653700	-	4	33347881	33348507	-	627	protein_coding	Conserved hypothetical protein	-
+Os06g0192400	-	6	4653460	4655652	-	1204	protein_coding	Glycosyl transferase, family 31 protein	-
+Os06g0692050	-	6	28864997	28865815	+	636	protein_coding	Conserved hypothetical protein	-
+Os02g0819400	LOW PHYTIC ACID 1	2	35170411	35175254	-	3322	protein_coding	Phytic acid metabolis	-
+Os08g0249200	-	8	9111086	9111844	-	759	protein_coding	Similar to GDU1	-
+Os04g0593200	-	4	29995755	29997261	-	1323	protein_coding	Myb transcription factor domain containing protein	Myb_DNA-binding
+Os03g0227700	DWARF4	3	6737549	6744486	+	1930	protein_coding	Cytochrome P450 90B2, Brassinosteroid C-22 hydroxylase, Brassinosteroids biosynthesi	p450
+Os11g0161133	-	11	2983193	2984650	+	1458	protein_coding	Similar to NB-ARC domain containing protein	-
+Os09g0544700	-	9	21524369	21525566	-	804	protein_coding	Protein of unknown function DUF674 domain containing protein	-
+Os06g0718300	-	6	30521743	30524025	-	1347	protein_coding	Putative UPF0496 protein 2	-
+Os01g0160700	-	1	3182139	3185207	+	3069	protein_coding	Leucine-rich repeat, N-terminal domain containing protein	LRRNT_2
+Os11g0238400	-	11	7391747	7392448	-	702	protein_coding	Protein of unknown function DUF3475 domain containing protein	-
+Os06g0251100	-	6	7835332	7840950	+	2000	protein_coding	Membrane attack complex component/perforin (MACPF) domain domain containing protein	-
+Os12g0150500	EARLY NODULIN LIKE PROTEIN 23	12	2506938	2507510	+	573	protein_coding	Plastocyanin-like domain containing protein	Cu_bind_like
+Os07g0271500	POLYKETIDE SYNTHASE 9	7	10018726	10020733	+	1595	protein_coding	Similar to Chalcone synthase	Chal_sti_synt_N
+Os03g0642300	-	3	24744077	24745553	+	1477	protein_coding	Protein kinase-like domain containing protein	Pkinase
+Os03g0714100	-	3	28890277	28891273	+	903	protein_coding	Conserved hypothetical protein	-
+Os12g0609900	F-box protein 676	12	25758738	25764063	-	1263	protein_coding	Similar to F-box domain containing protein, expressed	-
+Os04g0289500	-	4	12586386	12586916	+	531	protein_coding	Allergen V5/Tpx-1-related domain containing protein	SCP
+Os04g0522100	defensin-like 12	4	26120339	26120817	+	364	protein_coding	Similar to OSIGBa0131L05.12 protein	-
+Os08g0543500	-	8	27205935	27209931	-	3880	protein_coding	Similar to NBS-LRR type resistance protein (Fragment)	NB-ARC
+Os10g0452500	-	10	16500928	16501740	-	813	protein_coding	Similar to Glycine-rich protein precursor	-
+Os02g0193100	-	2	5183536	5184380	-	845	protein_coding	Conserved hypothetical protein	-
+Os07g0203925	-	7	5584553	5587357	+	786	protein_coding	Similar to ATP binding protein	Pkinase_Tyr
+Os07g0532800	-	7	20884650	20885960	+	1311	protein_coding	Peptidase A1 domain containing protein	-
+Os09g0438500	-	9	16229833	16231065	-	1233	protein_coding	Hypothetical conserved gene	-
+Os04g0160600	SKIP interacting protein 29, SKIPa-interacting protein 29, SKIPa-interacting protein 29	4	4169608	4170788	-	1181	protein_coding	Similar to OSIGBa0096I22.5 protein	-
+Os02g0770500	WRKY GENE 32	2	32488795	32491584	+	2175	protein_coding	Similar to WRKY transcription factor 32	WRKY
+Os01g0736500	-	1	30718930	30719952	+	1023	protein_coding	Similar to harpin-induced protein	-
+Os06g0549900	-	6	20832520	20834491	-	1972	protein_coding	FAD linked oxidase, N-terminal domain containing protein	FAD_binding_4
+Os09g0508000	-	9	19691511	19696029	+	1773	protein_coding	Hypothetical protein	-
+Os06g0569300	-	6	22009509	22010310	+	802	protein_coding	Conserved hypothetical protein	-
+Os06g0313440	-	6	11988794	11989718	-	600	protein_coding	SAM dependent carboxyl methyltransferase domain containing protein	-
+Os11g0209502	-	11	5630932	5634827	-	1113	protein_coding	F-box domain, cyclin-like domain containing protein	-
+Os01g0798800	-	1	33812915	33815127	-	2126	protein_coding	Protein of unknown function DUF594 family protein	-
+Os06g0721800	UCLACYANIN-LIKE PROTEIN 19	6	30658369	30659202	-	747	protein_coding	Cupredoxin domain containing protein	Cu_bind_like
+ENSRNA049472788	MIR1428	1	13160777	13160900	+	124	pre_miRNA	microRNA MIR1428	-
+Os05g0261700	-	5	10114810	10126224	-	3475	protein_coding	Hypothetical conserved gene	-
+ENSRNA049473437	Plant_U3	4	32154174	32154397	+	224	snoRNA	Plant small nucleolar RNA U3	-
+Os10g0486300	-	10	18403982	18404841	-	860	protein_coding	Hypothetical conserved gene	-
+Os10g0538950	-	10	20997527	20998560	-	1034	protein_coding	Hypothetical protein	-
+Os02g0767600	-	2	32324316	32326103	+	1404	protein_coding	Similar to RHC1A	-
+Os07g0599100	-	7	24456130	24459917	-	2953	protein_coding	Hypothetical conserved gene	NB-ARC
+Os04g0303250	-	4	13566810	13569752	+	2943	protein_coding	Hypothetical gene	Pkinase
+Os01g0512700	-	1	18073579	18074311	+	733	protein_coding	Zinc finger, C2H2 domain containing protein	-
+Os07g0524900	-	7	20365632	20367832	-	1498	protein_coding	Protein of unknown function DUF6, transmembrane domain containing protein	DUF6
+Os01g0584900	WRKY GENE 77	1	22731943	22733237	+	1091	protein_coding	WRKY transcription factor 28-like (WRKY5) (WRKY transcription factor 77)	WRKY
+Os10g0114400	OsBRI1	10	926519	930299	-	3781	protein_coding	Protein kinase, catalytic domain domain containing protein	Pkinase
+Os01g0169000	-	1	3520944	3521309	+	366	protein_coding	Hypothetical protein	-
+Os03g0118200	-	3	991125	994700	+	1503	protein_coding	UAA transporter family protein	-
+CAA34010	psbK	Pt	7033	7218	+	186	protein_coding	-	-
+Os02g0784400	-	2	33301587	33303132	+	984	protein_coding	Hypothetical conserved gene	-
+Os05g0199800	basic helix-loop-helix protein 028	5	6206615	6208830	+	1541	protein_coding	Similar to BHLH transcription activator Ivory seed	HLH
+Os04g0447900	OVATE family protein 24, ovate family protein 15, OVATE-domain containing protein 15	4	22332663	22333423	-	761	protein_coding	Domain of unknown function DUF623 domain containing protein	-
+Os02g0569000	P-450 76M5	2	21662608	21664276	+	1669	protein_coding	Cytochrome P450 family protein	p450
+Os10g0118000	-	10	1139929	1141433	-	1269	protein_coding	Similar to 5-pentadecatrienyl resorcinol O-methyltransferase	-
+Os03g0804900	-	3	33599055	33600984	-	1623	protein_coding	UDP-glucuronosyl/UDP-glucosyltransferase family protein	UDPGT
+Os11g0142400	-	11	1986490	1988373	+	1742	protein_coding	Similar to Strictosidine synthase family protein, expressed	-
+Os06g0693100	-	6	28926197	28930066	-	2942	protein_coding	NB-ARC domain containing protein	NB-ARC
+Os01g0246601	-	1	8071122	8071808	-	687	protein_coding	Protein of unknown function DUF296 domain containing protein	-
+Os05g0563000	NAC DOMAIN-CONTAINING PROTEIN 62	5	28003165	28004999	+	1538	protein_coding	NAC family transcription factor, Secondary cell wall biosynthesis, Positive regulator of cellulose biosynthesi	NAM
+Os11g0479000	-	11	16743419	16744480	+	669	protein_coding	Conserved hypothetical protein	-
+Os03g0165300	BEL1-like homeodomain gene 6, bell-like homeodomain-containing transcription factor 6	3	3513371	3517214	-	2697	protein_coding	Conserved hypothetical protein	POX
+Os07g0663700	short-chain alcohol dehydrogenase/reductase 110C-MI3, OsSDR110C family member MI3	7	28002587	28004412	+	1581	protein_coding	Similar to Oxidoreductase, short chain dehydrogenase/reductase family protein, expressed	-
+Os10g0178800	WALL-ASSOCIATED KINASE GENE 111	10	5442144	5449074	-	3068	protein_coding	Hypothetical conserved gene	-
+Os04g0268700	-	4	11130544	11131484	+	941	protein_coding	Eggshell protein family protein	-
+Os09g0255200	-	9	4175710	4176073	-	364	protein_coding	Putative cysteine proteinase inhibitor 11	-
+Os09g0417800	WRKY GENE 62	9	14992918	14994888	-	1348	protein_coding	WRKY transcription factor, Transcriptional repressor, Pathogen defens	WRKY
+Os08g0521000	-	8	25909390	25910662	+	1199	protein_coding	Protein of unknown function DUF599 family protein	-
+Os01g0916000	-	1	39922260	39923794	-	1420	protein_coding	Conserved hypothetical protein	-
+Os06g0248600	-	6	7722728	7723354	-	627	protein_coding	Conserved hypothetical protein	-
+Os02g0803600	VESICLE-ASSOCIATED MEMBRANE PROTEIN 7112	2	34263983	34265763	+	927	protein_coding	Longin domain containing protein	-
+Os08g0412700	-	8	19745573	19747063	+	1491	protein_coding	Protein of unknown function DUF1262 family protein	-
+Os07g0117200	-	7	939612	941126	-	1515	protein_coding	NB-ARC domain containing protein	-
+Os11g0579400	-	11	21874468	21877085	+	2618	protein_coding	Similar to Leucine Rich Repeat family protein, expressed	-
+Os04g0161100	-	4	4216591	4218547	+	1957	protein_coding	Similar to OSIGBa0102O13.5 protein	-
+Os05g0453100	-	5	22225674	22226711	+	1038	protein_coding	Hypothetical protein	-
+Os06g0599200	CYP76M7	6	23632462	23634139	+	1678	protein_coding	Cytochrome P450 family protein	p450
+Os05g0477500	-	5	23487857	23491593	-	1539	protein_coding	Protein of unknown function DUF3615 domain containing protein	-
+Os04g0155000	-	4	3783358	3784338	+	981	protein_coding	Similar to OSIGBa0096I22.5 protein	-
+Os09g0355400	-	9	11387149	11396236	+	4305	protein_coding	Protein kinase, core domain containing protein	Pkinase_Tyr
+Os11g0702400	-	11	28766270	28766937	-	668	protein_coding	Zinc finger, C2H2-type domain containing protein	-
+Os01g0521600	-	1	18613736	18616526	+	2791	protein_coding	Similar to NB-ARC domain containing protein, expressed	NB-ARC
+Os03g0103900	-	3	269993	270893	+	901	protein_coding	Conserved hypothetical protein	-
+Os09g0448200	HIGH-AFFINITY POTASSIUM(K+) TRANSPORTER 17	9	16754535	16759622	+	2776	protein_coding	Similar to High-affinity potassium transporter	K_trans
+Os01g0623600	-	1	24899508	24901813	-	1593	protein_coding	Glycoside hydrolase, family 28 protein	-
+Os08g0327501	-	8	14422818	14425657	-	2620	protein_coding	Conserved hypothetical protein	-
+Os01g0721300	-	1	30075624	30077126	+	1503	protein_coding	Similar to cDNA clone:J013002N02, full insert sequence	NB-ARC
+Os06g0166500	IAA20	6	3342464	3346318	-	997	protein_coding	Similar to Auxin-responsive protein IAA20 (Indoleacetic acid-induced protein 20)	-
+Os11g0156000	-	11	2631709	2633563	-	1641	protein_coding	Similar to AP2 domain containing protein RAP2.8 (Fragment)	B3
+Os03g0234500	class III peroxidase 37	3	7107129	7108588	+	1277	protein_coding	Haem peroxidase, plant/fungal/bacterial family protein	-
+Os02g0176900	-	2	4220950	4223647	-	999	protein_coding	Similar to apospory-associated protein C	Aldose_epim
+Os05g0384600	ABC TRANSPORTER G FAMILY MEMBER 13	5	18575668	18578864	-	3031	protein_coding	ABC transporter-like domain containing protein	ABC2_membrane
+Os03g0697200	LONELY GUY LIKE PHOSPHORIBOHYDROLASE 4	3	27943411	27945040	+	784	protein_coding	Similar to carboxy-lyase	-
+Os01g0786500	UCLACYANIN-LIKE PROTEIN 1	1	33350154	33351195	-	904	protein_coding	Similar to early nodulin 20	Cu_bind_like
+Os10g0481500	FLOT1	10	18169120	18172321	+	1463	protein_coding	Similar to Flotillin-like protein 1	-
+Os06g0210400	-	6	5633354	5635721	-	2368	protein_coding	Concanavalin A-like lectin/glucanase, subgroup domain containing protein	Pkinase
+Os10g0352000	-	10	10748919	10751558	-	757	protein_coding	Conserved hypothetical protein	-
+Os11g0644700	-	11	25594109	25594874	+	766	protein_coding	Plant disease resistance response protein family protein	-
+Os07g0686300	-	7	29152545	29153434	-	890	protein_coding	Zinc finger, RING/FYVE/PHD-type domain containing protein	-
+Os12g0555100	-	12	22585181	22586562	+	848	protein_coding	Similar to Probenazole-inducible protein PBZ1	-
+Os07g0116800	-	7	919575	921478	-	1904	protein_coding	Hypothetical conserved gene	NB-ARC
+Os01g0627600	-	1	25055850	25058085	-	1809	protein_coding	Similar to Cytochrome P450 monooxygenase	p450
+Os01g0357400	ALPHA-AMYLASE 1B	1	14459951	14461690	+	1397	protein_coding	Similar to Alpha-amylase	-
+Os03g0361500	-	3	14043259	14047463	-	1670	protein_coding	Similar to Terpene synthase family, metal binding domain containing protein, expressed	-
+Os09g0135100	-	9	2668252	2669512	+	715	protein_coding	Hypothetical conserved gene	-
+Os02g0185300	-	2	4765151	4767187	+	1790	protein_coding	Cytochrome P450 family protein	p450
+Os03g0391400	PHOSPHOLIPASE D alpha 6	3	15676873	15678725	+	1414	protein_coding	Similar to Phospholipase D nu-2 (Fragment)	-
+Os03g0126450	OVATE family protein 21, ovate family protein 10, OVATE-domain containing protein 10	3	1505340	1508525	-	1014	protein_coding	Domain of unknown function DUF623 domain containing protein	-
+Os04g0597800	PROTEIN TRANSPORTER 6	4	30161452	30165436	+	2177	protein_coding	TGF-beta receptor, type I/II extracellular region family protein	-
+Os06g0668400	MATH-BTB protein 8, MDC protein with a BTB domain 8, MDC protein having BTB domain 8	6	27683632	27685556	-	1482	protein_coding	Kelch related domain containing protein	BTB
+Os12g0133500	CALCIUM-DEPENDENT PROTEIN KINASE 26	12	1648260	1650685	+	1937	protein_coding	Similar to Calcium-dependent protein kinase (Fragment)	Pkinase
+Os04g0449500	-	4	22396531	22401800	-	2546	protein_coding	Similar to H0818E04.12 protein	-
+Os06g0608000	-	6	24194693	24195716	+	735	protein_coding	Similar to PGPS/D10	-
+Os10g0548600	BETA-EXPANSIN 9	10	21465009	21466788	+	1119	protein_coding	Beta-expansin precursor	-
+Os01g0916100	-	1	39926253	39927260	-	556	protein_coding	Similar to loricrin	-
+Os08g0171700	-	8	4206406	4207866	-	757	protein_coding	Conserved hypothetical protein	-
+Os07g0456500	-	7	15875835	15881340	-	2828	protein_coding	Hypothetical conserved gene	-
+Os08g0113900	-	8	746499	747134	+	636	protein_coding	Conserved hypothetical protein	-
+Os04g0351933	-	4	16800126	16800341	-	216	protein_coding	Conserved hypothetical protein	-
+Os08g0532500	-	8	26543222	26545781	+	2553	protein_coding	Hypothetical conserved gene	-
+Os12g0639400	-	12	27422495	27423994	+	1500	protein_coding	ATPase, AAA-type, core domain containing protein	AAA
+Os10g0130600	-	10	1871104	1875535	-	3918	protein_coding	Hypothetical conserved gene	NB-ARC
+Os01g0337500	-	1	13237248	13246058	+	2595	protein_coding	Similar to H+-pyrophosphatase (Fragment)	-
+Os05g0143000	-	5	2482189	2482637	-	449	protein_coding	Conserved hypothetical protein	-
+Os04g0156200	-	4	3867343	3869354	+	2012	protein_coding	Hypothetical conserved gene	-
+Os10g0559450	-	10	22019204	22023390	+	1108	protein_coding	Conserved hypothetical protein	-
+Os02g0581800	-	2	22432053	22432863	+	657	protein_coding	Conserved hypothetical protein	-
+Os06g0320200	BETA-GLUCOSIDASE 24	6	12437683	12442790	-	1967	protein_coding	Similar to OSIGBa0135C13.7 protein	Glyco_hydro_1
+Os09g0434900	-	9	15984331	15990757	-	1361	protein_coding	Zinc finger, RING-type domain containing protein	IBR
+Os06g0707400	-	6	29905262	29908144	-	2693	protein_coding	Conserved hypothetical protein	NB-ARC
+Os07g0129900	-	7	1583658	1585631	-	1974	protein_coding	Similar to lectin-like receptor kinase 7	Pkinase
+Os04g0104900	CAFFEIC ACID 3-O-METHYLTRANSFERASE LIKE 2	4	316562	319162	+	1231	protein_coding	Similar to 0-methyltransferase (EC 2.1.1.6) (Fragment)	-
+Os01g0728300	-	1	30372204	30376912	-	2097	protein_coding	Similar to Cytochrome P450 monooxygenase CYP72A5 (Fragment)	p450
+Os08g0130000	OsSTA203	8	1681534	1684144	-	1404	protein_coding	Putative DNA binding domain containing protein	-
+Os03g0694000	OXALATE OXIDASE 4	3	27791020	27792047	-	1028	protein_coding	Similar to Oxalate oxidase 1 (EC 1.2.3.4) (Germin)	-
+Os05g0564700	ETHYLENE RESPONSE FACTOR 84	5	28109440	28110288	-	474	protein_coding	Conserved hypothetical protein	-
+Os02g0603900	-	2	23653452	23658263	+	2416	protein_coding	Hypothetical protein	-
+Os08g0174500	Heading date (QTL)-5(t)	8	4332106	4334829	-	1807	protein_coding	Putative HAP3 subunit of the CCAAT box-binding transcription factor, Flowering time, Short-day promotion, Long-day repressio	-
+Os10g0344000	-	10	10231802	10234439	-	1782	protein_coding	Similar to transparent testa 12 protein	MatE
+Os08g0517001	-	8	25644675	25644980	-	306	protein_coding	Hypothetical protein	-
+Os02g0570700	P-450 71Z7	2	21810375	21813457	-	1846	protein_coding	Cytochrome P450 family protein	p450
+Os01g0950000	TAU GLUTATHIONE S-TRANSFERASE 41	1	41847705	41849077	+	899	protein_coding	Similar to Glutathione S-transferase GST 28 (EC 2.5.1.18) (Fragment)	GST_C
+Os04g0128001	-	4	1766911	1768449	-	1539	protein_coding	Similar to OSIGBa0126J24.7 protein	p450
+ENSRNA049470161	U5	6	27813142	27813254	+	113	snRNA	U5 spliceosomal RNA	-
+Os10g0488400	-	10	18505564	18506412	+	849	protein_coding	Protein of unknown function DUF761, plant domain containing protein	-
+Os07g0438600	-	7	14733235	14734901	+	789	protein_coding	Proteinase inhibitor I9, subtilisin propeptide domain containing protein	-
+Os06g0530400	NAC DOMAIN-CONTAINING PROTEIN 7	6	19743865	19746351	-	2186	protein_coding	Similar to NAC domain-containing protein 76	NAM
+Os11g0707100	-	11	28938253	28939239	-	987	protein_coding	Hypothetical conserved gene	-
+Os01g0703300	-	1	29152729	29154822	+	2019	protein_coding	Zinc finger, RING/FYVE/PHD-type domain containing protein	-
+Os04g0581100	SALICYLIC ACID 3 HYDROXYLASE	4	29339469	29341162	-	1368	protein_coding	2OG-Fe(II) oxygenase domain containing protein	2OG-FeII_Oxy
+Os10g0197101	-	10	6749481	6749720	+	240	protein_coding	Similar to HAT family dimerisation domain containing protein	-
+Os01g0561600	P-450 76M14	1	21342129	21344066	-	1938	protein_coding	Cytochrome P450 family protein	p450
+Os05g0493800	-	5	24254630	24256914	+	1552	protein_coding	Similar to nodulin-like protein	DUF6
+Os04g0204300	-	4	7045088	7046466	-	1379	protein_coding	Conserved hypothetical protein	-
+Os03g0667100	NPR1-like gene 3	3	26259737	26267256	-	4753	protein_coding	Similar to NPR1-like protein	-
+Os08g0153750	-	8	3089164	3089635	+	472	protein_coding	Hypothetical protein	-
+Os09g0551000	-	9	21797009	21801244	-	2466	protein_coding	Protein kinase, catalytic domain domain containing protein	B_lectin
+Os03g0131000	RECEPTOR-LIKE CYTOPLASMIC KINASE 97	3	1774911	1775816	+	906	protein_coding	Similar to H0409D10.5 protein	-
+Os06g0228500	amino acid transporter-like 12	6	6678245	6680823	+	1433	protein_coding	Amino acid transporter, transmembrane domain containing protein	Aa_trans
+Os01g0957600	-	1	42207009	42208510	+	989	protein_coding	Similar to cDNA, clone: J053023H06, full insert sequence	p450
+Os01g0914100	non-specific lipid transfer protein d1, lipid transfer protein d1, type D non-specific lipid transfer protein 1	1	39836717	39837052	+	336	protein_coding	Plant lipid transfer protein/seed storage/trypsin-alpha amylase inhibitor domain containing protein	-
+Os04g0111100	-	4	639804	643247	-	3318	protein_coding	Similar to H0215A08.1 protein	NB-ARC
+Os03g0582300	ARBUSCULAR MYCORRHIZAL SPECIFIC MARKER 42	3	21420814	21421069	-	256	protein_coding	Similar to SC3 protein	-
+Os06g0218900	-	6	6102185	6104364	-	1321	protein_coding	Similar to predicted protein	-
+Os11g0133300	-	11	1538544	1541254	+	2711	protein_coding	Similar to D-mannose binding lectin family protein, expressed	B_lectin
+Os07g0142700	-	7	2187512	2188973	-	1462	protein_coding	Transferase family protein	-
+Os03g0853200	TETRASPANIN 6	3	35922773	35923848	+	965	protein_coding	Tetraspanin domain containing protein	Tetraspannin
+Os09g0568700	GERMIN-LIKE PROTEIN 9-3	9	22699925	22700959	-	1035	protein_coding	RmlC-like jelly roll fold domain containing protein	-
+Os10g0567800	dynamin-related protein 1C, dynamin-related protein 1D	10	22504534	22510131	-	2211	protein_coding	Similar to Dynamin-related protein 1E (Dynamin-like protein E) (Dynamin-like protein 4) (Dynamin-like protein DLP2)	-
+Os04g0665200	INDOL-3-ACETIC ACID METHYTRANSFERASE 1	4	33950246	33952563	-	1507	protein_coding	SABATH family protein, IAA homeostasi	-
+Os11g0600500	-	11	23060525	23061100	-	576	protein_coding	Calcium-binding EF-hand domain containing protein	-
+Os04g0122200	-	4	1359584	1362382	-	2799	protein_coding	Similar to OSIGBa0137A06.2 protein	Pkinase
+Os02g0738100	-	2	30799136	30799746	+	611	protein_coding	Conserved hypothetical protein	-
+Os12g0154800	GERMIN-LIKE PROTEIN 12-2	12	2692634	2693443	-	690	protein_coding	Germin-like protein 12-2, Disease resistanc	-
+Os07g0116900	-	7	925097	928476	-	3040	protein_coding	Conserved hypothetical protein	NB-ARC
+Os02g0262800	NBS-LRR protein rNBS41	2	9257998	9262614	+	4510	protein_coding	Similar to NBS-LRR protein (Fragment)	NB-ARC
+Os08g0390700	-	8	18508782	18509318	-	537	protein_coding	Similar to 2-oxoglutarate-dependent oxygenase	-
+Os03g0327751	-	3	11962924	11963397	+	474	protein_coding	Conserved hypothetical protein	-
+Os09g0416200	-	9	14887140	14893226	+	1849	protein_coding	Similar to Glucose transporter (Fragment)	Sugar_tr
+Os01g0701700	-	1	29050777	29053445	-	1433	protein_coding	SAM dependent carboxyl methyltransferase family protein	-
+Os11g0707050	-	11	28938028	28938246	-	219	protein_coding	Similar to Chloroplast ribulose-1,5-bisphosphate carboxylase/oxygenase activase large protein isoform	-
+Os03g0172850	-	3	3893027	3893580	-	554	protein_coding	Proteinase inhibitor I25, cystatin, conserved region domain containing protein	-
+Os07g0516700	-	7	19916969	19917631	+	663	protein_coding	Conserved hypothetical protein	-
+Os07g0541500	CRK10	7	21384789	21388269	-	2302	protein_coding	Similar to KI domain interacting kinase 1	Pkinase
+Os04g0395100	-	4	19430045	19435342	-	1450	protein_coding	Protein of unknown function DUF26 domain containing protein	-
+Os10g0520900	-	10	20147963	20150864	+	998	protein_coding	Hypothetical conserved gene	-
+Os03g0570100	-	3	20666069	20670823	-	1844	protein_coding	Similar to Cytochrome P450 79A1 (EC 1.14.13.41) (Tyrosine N-monooxygenase) (Cytochrome P450Tyr)	p450
+Os04g0664800	cell-wall invertase 6, cell-wall invertase 7	4	33940929	33943427	-	1926	protein_coding	Similar to Cell wall invertase (EC 3.2.1.26)	-
+Os02g0571900	P-450 76M6	2	21904598	21906238	-	1641	protein_coding	Cytochrome P450 family protein	p450
+Os12g0190400	-	12	4569135	4572169	-	1467	protein_coding	Similar to NifS-like protein	Aminotran_5
+Os12g0491800	KAURENE SYNTHASE-LIKE 10	12	18509843	18528700	-	2810	protein_coding	Similar to Ent-kaurene synthase 1A	-
+Os01g0274500	ALPHA-EXPANSIN 11	1	9526187	9526984	+	798	protein_coding	Similar to Expansin-A11	-
+Os07g0691600	-	7	29417888	29419191	-	1220	protein_coding	Similar to Alcohol dehydrogenase (Fragment)	adh_short
+Os10g0134900	-	10	2163122	2164565	+	1444	protein_coding	NB-ARC domain containing protein	NB-ARC
+Os06g0158000	-	6	2949764	2957842	+	2173	protein_coding	Similar to Acyl-CoA synthetase (EC 6.2.1.3)	AMP-binding
+Os02g0523100	-	2	19084413	19085860	+	1009	protein_coding	Hypothetical conserved gene	-
+Os11g0184800	aspartic protease 1	11	4295162	4297455	+	1463	protein_coding	Similar to Aspartic proteinase Asp1 precursor (EC 3.4.23.-	-
+Os05g0311801	-	5	14261484	14262509	-	1026	protein_coding	Similar to Isopentenyl transferase IPT7	IPPT
+Os03g0225900	ALLENE OXIDE SYNTHASE 2	3	6608577	6610549	+	1973	protein_coding	Allene oxide synthase (CYP74A2), Biosynthesis of jasmonic acid (JA	p450
+Os01g0690200	-	1	28502293	28503364	-	1072	protein_coding	Hypothetical conserved gene	-
+Os04g0660900	-	4	33729812	33732506	+	2050	protein_coding	TGF-beta receptor, type I/II extracellular region family protein	-
+Os02g0205500	-	2	5930298	5933077	-	1928	protein_coding	Similar to Fatty acid elongase 1	-
+Os09g0436200	-	9	16038231	16040169	+	1655	protein_coding	Hypothetical protein	-
+Os02g0581200	-	2	22401334	22402012	+	679	protein_coding	Similar to OSIGBa0115M15.3 protein	-
+Os04g0275100	-	4	11569339	11574645	-	2651	protein_coding	Serine/threonine protein kinase-related domain containing protein	Pkinase
+Os06g0241400	-	6	7341809	7344913	-	1509	protein_coding	SAM dependent carboxyl methyltransferase family protein	-
+Os12g0632600	basic helix-loop-helix protein 021	12	27088697	27091800	+	1059	protein_coding	Similar to Helix-loop-helix DNA-binding domain containing protein	HLH
+Os07g0600200	-	7	24487821	24488449	-	629	protein_coding	Conserved hypothetical protein	-
+Os07g0510350	-	7	19445216	19445510	-	213	protein_coding	Similar to Endonuclease/exonuclease/phosphatase family protein	-
+Os04g0202500	RECEPTOR-LIKE CYTOPLASMIC KINASE 135	4	6966605	6969072	-	2468	protein_coding	Similar to H0512B01.12 protein	Pkinase
+Os07g0630400	RIBONUCLEASE 1	7	26141469	26142921	+	1097	protein_coding	Ribonuclease T2 family protein	Ribonuclease_T2
+Os04g0458600	-	4	22902577	22905619	+	1343	protein_coding	Similar to ORW1943Ba0077G13.3 protein	Aldose_epim
+Os01g0935200	HAP3G SUBUNIT OF CCAAT-BOX BINDING COMPLEX	1	41028860	41030025	-	1166	protein_coding	Histone-fold domain containing protein	-
+Os06g0671600	SMALL AUXIN-UP RNA 26	6	27862160	27862997	+	581	protein_coding	Beta tubulin, autoregulation binding site domain containing protein	-
+Os02g0159400	-	2	3220242	3225322	-	2509	protein_coding	Conserved hypothetical protein	-
+Os07g0127500	PATHOGENESIS-RELATED GENE 1-72	7	1432684	1433404	+	721	protein_coding	Similar to PR-1a pathogenesis related protein (Hv-1a) precursor	SCP
+Os04g0464100	-	4	23165556	23166329	+	774	protein_coding	Heavy metal transport/detoxification protein domain containing protein	-
+ENSRNA049471632	snoZ155	1	41010580	41010655	-	76	snoRNA	Small nucleolar RNA Z155	-
+Os02g0720100	EARLY NODULIN LIKE PROTEIN 8	2	29875600	29876705	-	1033	protein_coding	Cupredoxin domain containing protein	Cu_bind_like
+Os11g0599000	-	11	22900684	22908302	+	2655	protein_coding	Domain of unknown function DUF629 domain containing protein	-
+Os09g0129600	-	9	2297916	2298519	-	604	protein_coding	Conserved hypothetical protein	-
+Os12g0433066	-	12	14009947	14010768	+	822	protein_coding	Hypothetical gene	-
+Os10g0130200	F-box protein 520	10	1838774	1839900	+	1127	protein_coding	Hypothetical conserved gene	-
+Os10g0453000	-	10	16518769	16519232	-	464	protein_coding	Hypothetical protein	-
+Os06g0200500	-	6	5085603	5085950	+	348	protein_coding	Hypothetical conserved gene	-
+Os02g0775900	-	2	32778200	32778764	-	565	protein_coding	Conserved hypothetical protein	-
+Os09g0541100	UCLACYANIN-LIKE PROTEIN 32	9	21313150	21313821	-	672	protein_coding	Cupredoxin domain containing protein	Cu_bind_like
+Os01g0796000	-	1	33713552	33714121	+	570	protein_coding	Conserved hypothetical protein	-
+Os10g0438600	GDSL ESTERASE/LIPASE PROTEIN 107	10	15734082	15736908	-	1504	protein_coding	Similar to Family II lipase EXL3	Lipase_GDSL
+Os07g0497500	-	7	18658755	18660353	-	1239	protein_coding	Similar to MYB transcription factor	Myb_DNA-binding
+Os10g0352200	-	10	10753134	10753893	-	667	protein_coding	Conserved hypothetical protein	-
+Os07g0217600	P-450 71Z2	7	6494465	6501972	+	1811	protein_coding	CytochromeP450 monooxygenase, Diterpenoid phytoalexin biosynthesis, Bacterial blight resistanc	p450
+Os01g0297700	USUALLY MULTIPLE ACIDS MOVE IN AND OUT TRANSPORTER 5	1	10911297	10914638	+	1571	protein_coding	Protein of unknown function DUF6, transmembrane domain containing protein	DUF6
+Os01g0801500	beta-1, 3-glucanase 7	1	33949387	33951631	-	1288	protein_coding	Beta-1,3-glucanase precursor	Glyco_hydro_17
+Os04g0643600	CYCLIC NUCLEOTIDE GATED CHANNEL 8	4	32757644	32758687	+	961	protein_coding	Similar to Cyclic nucleotide-gated channel C (Fragment)	cNMP_binding
+Os04g0589700	plant U-box-containing protein 35, U-box protein 35	4	29809222	29810808	+	1587	protein_coding	Zinc finger, RING/FYVE/PHD-type domain containing protein	U-box
+Os04g0609300	-	4	30860607	30863363	+	1688	protein_coding	Transferase family protein	-
+Os01g0821600	RICE WRKY GENE21	1	35062738	35064472	+	1521	protein_coding	WRKY transcription factor 48-like protein (WRKY transcription factor 21)	WRKY
+Os06g0560300	NAC DOMAIN-CONTAINING PROTEIN 94	6	21419757	21421894	-	1239	protein_coding	Similar to NAC-type transcription factor	NAM
+Os01g0648000	salt-sensitive K1 uptake channel OsAKT1 K+ channel alpha subunit	1	26119741	26126165	-	3389	protein_coding	Potassium channel, Potassium uptake, Salt stress toleranc	Ion_trans
+Os02g0577300	-	2	22175977	22178701	+	1884	protein_coding	Similar to predicted protein	Galactosyl_T
+Os07g0119600	-	7	1061348	1062408	-	474	protein_coding	Conserved hypothetical protein	-
+Os10g0437700	-	10	15681535	15683594	+	849	protein_coding	Heat shock protein Hsp20 domain containing protein	-
+Os12g0582900	ETHYLENE RESPONSE FACTOR 4	12	24202762	24204188	+	1427	protein_coding	Similar to AP2 domain containing protein, expressed	AP2
+Os06g0118700	-	6	1011587	1014688	-	1881	protein_coding	Peptidase A1 domain containing protein	-
+ENSRNA049467134	U6	12	19953823	19953925	+	103	snRNA	U6 spliceosomal RNA	-
+Os06g0225100	-	6	6479283	6480980	-	1698	protein_coding	Mitochodrial transcription termination factor-related family protein	-

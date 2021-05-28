@@ -1,0 +1,41 @@
+gene_id	gene_name	gene_chr	gene_start	gene_end	gene_strand	gene_length	gene_biotype	gene_description	tf_family
+Os01g0685300	-	1	28246607	28248021	+	1415	protein_coding	Conserved hypothetical protein	-
+Os01g0284900	-	1	10200477	10203472	-	1518	protein_coding	Conserved hypothetical protein	-
+Os11g0534100	-	11	19475574	19476709	+	1136	protein_coding	Hypothetical conserved gene	-
+Os02g0763800	-	2	32177755	32179122	+	1368	protein_coding	Xyloglucan fucosyltransferase domain containing protein	-
+Os04g0690600	AUXIN RESPONSE FACTOR 13	4	35329565	35333095	-	2037	protein_coding	Similar to Auxin response factor 13	B3
+Os02g0679200	-	2	27737378	27738930	-	1553	protein_coding	Pentatricopeptide repeat domain containing protein	-
+Os11g0168600	RECEPTOR-LIKE CYTOPLASMIC KINASE 311	11	3315686	3316207	+	522	protein_coding	Protein kinase, core domain containing protein	Pkinase_Tyr
+Os11g0583200	-	11	22040372	22044971	+	2918	protein_coding	Hypothetical conserved gene	-
+Os01g0562400	FK506 binding protein 57	1	21381884	21389642	+	2034	protein_coding	Peptidyl-prolyl cis-trans isomerase, FKBP-type, domain domain containing protein	FKBP_C
+Os02g0784400	-	2	33301587	33303132	+	984	protein_coding	Hypothetical conserved gene	-
+Os09g0479900	Subtilisin 58, SUBTILISIN 58	9	18414174	18422623	+	2685	protein_coding	Similar to Subtilisin-like protease	Peptidase_S8
+Os12g0511900	-	12	19754488	19757913	-	3426	protein_coding	Similar to NB-ARC domain containing protein, expressed	NB-ARC
+Os01g0959200	ABSCISIC ACID-STRESS-RIPENING-INDUCIBLE 4 PROTEIN	1	42282832	42283619	+	657	protein_coding	Similar to Ci21A protein	-
+Os08g0404500	-	8	19325136	19326185	+	1050	protein_coding	C1-like domain containing protein	-
+Os06g0686500	-	6	28620993	28628004	+	2725	protein_coding	Peptidase M3A and M3B, thimet/oligopeptidase F domain containing protein	Peptidase_M3
+Os08g0132700	-	8	1838104	1839670	-	1567	protein_coding	Hypothetical protein	-
+Os03g0432277	-	3	18176979	18177440	-	462	protein_coding	Hypothetical protein	-
+Os01g0216000	GDSL ESTERASE/LIPASE PROTEIN 7	1	6340836	6344286	+	1531	protein_coding	Lipase, GDSL domain containing protein	Lipase_GDSL
+Os06g0158100	WRKY GENE 113	6	2959754	2963006	+	1176	protein_coding	Similar to WRKY transcription factor 63	WRKY
+Os08g0340900	-	8	15354219	15356884	+	2666	protein_coding	Pentatricopeptide repeat domain containing protein	-
+Os03g0593600	P-450 71W1	3	22048470	22050253	+	1639	protein_coding	Similar to Cytochrome P450 family protein, expressed	p450
+Os11g0549615	PURPLE ACID PHOSPHATASE 3A	11	20336764	20340697	-	1312	protein_coding	Metallophosphoesterase domain containing protein	Metallophos
+Os02g0287900	F-box protein 80	2	10857586	10859012	-	1427	protein_coding	Cyclin-like F-box domain containing protein	-
+Os03g0209700	-	3	5729595	5732123	+	534	protein_coding	Conserved hypothetical protein	-
+Os02g0706600	zinc finger homeodomain class homeobox transcription factor 7	2	29206676	29208686	-	1807	protein_coding	Similar to zinc finger homeodomain protein 1	ZF-HD_dimer
+Os04g0672700	-	4	34333498	34336668	-	3171	protein_coding	Pentatricopeptide repeat domain containing protein	-
+Os01g0705000	-	1	29230315	29231441	+	1127	protein_coding	Hypothetical conserved gene	-
+Os01g0823951	-	1	35192320	35192671	+	352	protein_coding	Conserved hypothetical protein	-
+Os06g0225000	SAR1B-like gene, secretion-associated Ras-superfamily protein 1, ARF-like protein 1c	6	6475161	6479028	+	703	protein_coding	Similar to NTGB3 (Fragment)	Arf
+Os06g0249350	-	6	7763207	7763803	-	597	protein_coding	Conserved hypothetical protein	-
+Os10g0414700	PEPPER	10	14487133	14493082	+	2221	protein_coding	K Homology domain containing protein	KH_1
+Os04g0432300	-	4	21447893	21449455	+	1374	protein_coding	Similar to 4-alpha-L-fucosyltransferase	-
+Os07g0239600	-	7	7753947	7757879	-	3754	protein_coding	Pentatricopeptide repeat domain containing protein	PPR
+Os05g0527000	-	5	26198411	26200034	-	1624	protein_coding	UDP-glucuronosyl/UDP-glucosyltransferase family protein	UDPGT
+Os01g0342500	-	1	13508323	13508882	-	560	protein_coding	Hypothetical conserved gene	-
+Os02g0720100	EARLY NODULIN LIKE PROTEIN 8	2	29875600	29876705	-	1033	protein_coding	Cupredoxin domain containing protein	Cu_bind_like
+Os02g0578000	-	2	22215072	22216729	-	1505	protein_coding	Hypothetical protein	UDPGT
+Os11g0582000	-	11	21986828	21990286	-	687	protein_coding	Hypothetical conserved gene	-
+Os08g0476000	-	8	23447612	23450237	+	1539	protein_coding	Conserved hypothetical protein	-
+Os06g0225100	-	6	6479283	6480980	-	1698	protein_coding	Mitochodrial transcription termination factor-related family protein	-
