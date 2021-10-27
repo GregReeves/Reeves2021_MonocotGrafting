@@ -1,0 +1,177 @@
+##############################################
+##############################################
+# R-script by Gregory Reeves (27 MAY 2021)
+# University of Cambridge, Department of Plant Sciences,
+# Downing Site, Cambridge CB2 3EA, United Kingdom
+# E-mail me at drgregreeves@gmail.com or gr360@cam.ac.uk
+##############################################
+##############################################
+
+
+library(tidyverse)
+library(ggplot2)
+library(mgcv) 
+library(dplyr)
+library(ggpubr)
+library(car)
+library(rstatix)
+
+
+#############################################
+# Vascular Connection in Rice, Determined by CFDA transport across the graft junction
+#############################################
+
+
+### You need to specify the working directory. 
+### You can always use the command "file.choose()", then copy the working directory with the file "VascularConnection.csv"
+#setwd("~/")
+
+VascularConnection <- file.choose() ### Choose the file called "VascularConnection.csv"
+
+#Grafting data input
+VascularConnectionData <- read.csv(VascularConnection, sep=",",header=TRUE)
+
+
+# Rename Columne in VascularConnectionData
+colnames(VascularConnectionData) <-c("Days_after_grafting",	
+                                     "Tissue",	
+                                     "Type",	
+                                     "Name",	
+                                     "Sample",	
+                                     "no_stained",	
+                                     "no_fluo", 
+                                     "Percent_fluo",
+                                     "n_Plants")
+# Sumarize the data
+VascularConnectionSummary <- summarise(group_by(VascularConnectionData, 
+                                                Days_after_grafting, Type, Tissue, Name),
+                                       meanPercent_fluo=mean(Percent_fluo),
+                                       sdPercent_fluo=sd(Percent_fluo),
+                                       sePercent_fluo=sd(Percent_fluo)/sqrt(n()),
+                                       n=n())
+
+#list_of_Removed_values <- c("3")
+# Uncomment to remove day 5 as well
+list_of_Removed_values <- c("3") #"5")
+
+n_PlantsSummary <- summarise(group_by(VascularConnectionData, 
+                                      Days_after_grafting, Type, Tissue, Name),
+                             meann_Plants=mean(n_Plants))
+# Removes the Phloem data from 3 days after grafting 
+n_PlantsSummary_3DAGremoved <- filter(n_PlantsSummary, !(Days_after_grafting %in% list_of_Removed_values))
+
+
+# Removes the Phloem data from 3 days after grafting 
+VascularConnectionSummary3DAGremoved <- filter(VascularConnectionSummary, !(Days_after_grafting %in% list_of_Removed_values))
+
+
+# Removes the Phloem data from 3 days after grafting 
+VascularConnectionRAW_3DAGremoved <- filter(VascularConnectionData, !(Days_after_grafting %in% list_of_Removed_values))
+
+
+OrderList <- c("Control Phloem", "Control Xylem", "Graft Phloem", "Graft Xylem")
+
+############################
+#### Extended Data Fig. 3g Plotting code: 
+############################
+
+#######################################
+
+# Generate the Plot 
+
+VascularConnectionPlot <- ggplot(data=VascularConnectionSummary3DAGremoved, 
+                                 mapping=aes(Days_after_grafting,
+                                             meanPercent_fluo,
+                                             group=Name, 
+                                             color=Name)) +
+  geom_line(size=2) + 
+  # geom_text_repel(label = paste("n =", n_PlantsSummary_3DAGremoved$meann_Plants), 
+  #nudge_y = 0.3,
+  #               segment.colour = "#000000")+
+  geom_errorbar(aes(Days_after_grafting, 
+                    ymin=meanPercent_fluo-sdPercent_fluo,
+                    ymax=meanPercent_fluo+sdPercent_fluo, 
+                    width=0.15)) +
+  geom_point(aes(shape=Name, 
+                 color=Name, 
+                 fill=Name), 
+             size=5)+ 
+  #geom_smooth(se = FALSE, method = "auto") +
+  scale_shape_manual(values=c(21,22,23,24))+ 
+  scale_fill_manual(breaks = OrderList, 
+                    values=c("#1c334cff", "#297d7dff", "#91c26bff", "#c6e170ff"))+
+  scale_x_continuous(breaks=seq(3,10,1))+
+  scale_y_continuous(breaks=seq(0, 100, 10))+
+  labs(x = expression("Days after grafting"), y = expression("Grafts transporting fluorescence (%)")) +   
+  #labs(x = expression("Days after grafting"), y = expression(atop("Grafts transporting", paste(" fluorescence (%)")))) + 
+  scale_color_manual(breaks = OrderList, 
+                     values=c("#485d70ff", "#539798ff", "#a7d189ff", "#d2e68dff")) +
+  theme_classic()+
+  theme(legend.position=c(0.75, 0.3),
+        axis.line.x = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.line.y = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.ticks = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.text.x = element_text(face="bold", size=28, colour = "#333333"),
+        axis.text.y = element_text(face="bold", size=28, colour = "#333333"),
+        axis.title = element_text(size=30)) 
+VascularConnectionPlot 
+
+
+############################
+#### Fig. 1l Plotting code: 
+############################
+
+VascularConnectionSummary3DAGandControlremoved <- filter(VascularConnectionSummary3DAGremoved, !(Type == 'Control'))
+
+GraftOrderList <- c("Graft Phloem", "Graft Xylem")
+
+#######################################
+
+# Generate the Plot 
+
+VascularConnectionPlotNoControl <- ggplot(VascularConnectionSummary3DAGandControlremoved, 
+                                          mapping=aes(Days_after_grafting,
+                                                      meanPercent_fluo,
+                                                      group=Name, 
+                                                      color=Name)) +
+  geom_line(size=2) + 
+  #geom_text_repel(label = paste("n =", n_PlantsSummary_3DAGremoved$meann_Plants), 
+  #nudge_y = 0.3,
+  #               segment.colour = "#000000")+
+  geom_errorbar(aes(Days_after_grafting, 
+                    ymin=meanPercent_fluo-sdPercent_fluo,
+                    ymax=meanPercent_fluo+sdPercent_fluo, 
+                    width=0.15)) +
+  geom_point(aes(shape=Name, 
+                 color=Name, 
+                 fill=Name), 
+             size=5)+ 
+  #geom_smooth(se = FALSE, method = "auto") +
+  scale_shape_manual(values=c(23,24))+ 
+  scale_fill_manual(breaks = GraftOrderList, 
+                    values=c("#91c26bff", "#c6e170ff"))+
+  scale_x_continuous(breaks=seq(3,10,1))+
+  scale_y_continuous(breaks=seq(0, 100, 10))+
+  labs(x = expression("Days after grafting"), y = expression("Grafts trans fluor (%)")) +   
+  #labs(x = expression("Days after grafting"), y = expression(atop("Grafts transporting", paste(" fluorescence (%)")))) + 
+  scale_color_manual(breaks = GraftOrderList, 
+                     values=c("#a7d189ff", "#d2e68dff")) +
+  theme_classic()+
+  theme(legend.position=c(0.75, 0.3),
+        axis.line.x = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.line.y = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.ticks = element_line(colour = "#000000", size = 2, linetype = "solid"),
+        axis.text.x = element_text(face="bold", size=28, colour = "#333333"),
+        axis.text.y = element_text(face="bold", size=28, colour = "#333333"),
+        axis.title = element_text(size=30)) 
+VascularConnectionPlotNoControl
+
+
+###################
+
+
+
+
+
+
+
